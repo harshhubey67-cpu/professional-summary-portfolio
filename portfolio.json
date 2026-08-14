@@ -1,10 +1,10 @@
 {
-  "id": "port_1786726686987",
+  "id": "port_1786730809866",
   "title": "PROFESSIONAL SUMMARY — Professional Portfolio",
   "slug": "professional-summary-portfolio",
   "isPublished": true,
-  "createdAt": "2026-08-14T16:58:06.987Z",
-  "updatedAt": "2026-08-14T16:58:41.153Z",
+  "createdAt": "2026-08-14T18:06:49.866Z",
+  "updatedAt": "2026-08-14T18:07:23.827Z",
   "personal": {
     "name": "PROFESSIONAL SUMMARY",
     "title": "Computer Science & Engineering Student",
@@ -188,7 +188,7 @@
   "certifications": [],
   "achievements": [],
   "customization": {
-    "theme": "three-d",
+    "theme": "creative",
     "primaryColor": "#0c8ee9",
     "accentColor": "#8b5cf6",
     "fontFamily": "inter",
