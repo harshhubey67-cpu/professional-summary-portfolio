@@ -3,7 +3,7 @@ import React from 'react';
 
 export const metadata = {
   title: 'PROFESSIONAL SUMMARY — Portfolio Website',
-  description: 'Computer Science & Engineering Student',
+  description: 'Computer Science & Engineering Developer',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
