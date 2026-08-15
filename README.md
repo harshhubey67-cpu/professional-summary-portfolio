@@ -10,9 +10,9 @@
 
 ## 👤 About Developer
 - **Name**: PROFESSIONAL SUMMARY
-- **Role**: Computer Science & Engineering Student
-- **Location**: India
-- **Email**: contact@example.com
+- **Role**: Computer Science & Engineering Developer
+- **Location**: Global
+- **Email**: 
 
 ## 🛠️ Technology Stack
 - **Framework**: Next.js 14 (App Router)
