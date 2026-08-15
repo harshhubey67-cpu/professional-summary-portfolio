@@ -1,174 +1,113 @@
 {
-  "id": "port_1786730809866",
+  "id": "port_1786834418982",
   "title": "PROFESSIONAL SUMMARY — Professional Portfolio",
   "slug": "professional-summary-portfolio",
   "isPublished": true,
-  "createdAt": "2026-08-14T18:06:49.866Z",
-  "updatedAt": "2026-08-15T22:52:30.295Z",
+  "createdAt": "2026-08-15T22:53:38.982Z",
+  "updatedAt": "2026-08-15T22:54:13.668Z",
   "personal": {
     "name": "PROFESSIONAL SUMMARY",
-    "title": "Computer Science & Engineering Student",
-    "email": "contact@example.com",
-    "location": "India",
-    "tagline": "Computer Science & Engineering Portfolio",
+    "title": "Computer Science & Engineering Developer",
+    "email": "",
+    "location": "Global",
+    "tagline": "Computer Science & Engineering Developer Portfolio",
     "socials": {
       "github": "",
       "linkedin": ""
     }
   },
   "about": {
-    "summary": "Motivated student & developer with strong programming fundamentals, problem-solving abilities, and a passion for building reliable software applications.",
+    "summary": "PROFESSIONAL SUMMARY is a dedicated Computer Science & Engineering Developer focused on building robust applications, solving complex algorithmic problems, and writing clean, scalable code.",
     "highlights": [
-      "Strong programming fundamentals in Java, Python, and C",
-      "Experience building functional backend and mobile banking applications",
-      "Proficient in logical problem solving, debugging, and data structures"
+      "Demonstrated expertise in software engineering and software design",
+      "Proven track record of delivering technical solutions and projects",
+      "Strong analytical problem-solving and algorithmic skills"
     ],
     "openToWork": true
   },
   "skills": [
     {
       "id": "sk_lang",
-      "category": "Programming Languages",
+      "category": "Languages & Core Stack",
       "skills": [
         "Python",
         "Javascript",
         "Html",
         "Css",
         "Sql"
+      ]
+    },
+    {
+      "id": "sk_fw",
+      "category": "Frameworks & Libraries",
+      "skills": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "Bootstrap"
       ]
     },
     {
       "id": "sk_tools",
-      "category": "Development Tools & IDEs",
+      "category": "Tools, Databases & Infrastructure",
       "skills": [
-        "VS Code",
         "Git",
         "Github",
+        "Docker",
+        "VS Code",
         "Postman",
-        "Docker"
-      ]
-    },
-    {
-      "id": "sk_concepts",
-      "category": "Core Engineering & Logic",
-      "skills": [
-        "Data Structures",
-        "Debugging",
-        "Algorithms"
+        "Mysql",
+        "Mongodb"
       ]
     }
   ],
-  "experience": [
-    {
-      "id": "exp_1",
-      "company": "Academic & Personal Engineering Projects",
-      "role": "Computer Science & Engineering Student",
-      "location": "India",
-      "startDate": "2025",
-      "endDate": "Present",
-      "current": true,
-      "description": "Developed backend logic, console systems, and banking applications.",
-      "achievements": [
-        "Designed secure console-based ATM backend with withdrawal and deposit flows",
-        "Implemented functional mobile banking features with user authentication"
-      ],
-      "technologies": [
-        "Python",
-        "Javascript",
-        "Html",
-        "Css",
-        "Sql"
-      ]
-    }
-  ],
+  "experience": [],
   "projects": [
     {
       "id": "proj_1",
-      "name": "MAXO (HTML/CSS/JS/PDF.js)Live: scintillating-crepe-16662f.netlify.appPlagiarism detection and resume ranking platform with client-side PDF processing.",
-      "description": "MAXO (HTML/CSS/JS/PDF.js)Live: scintillating-crepe-16662f.netlify.appPlagiarism detection and resume ranking platform with client-side PDF processing.",
-      "technologies": [
-        "Java"
-      ],
+      "name": "CERTIFICATIONS & ACHIEVEMENTS",
+      "description": "CERTIFICATIONS & ACHIEVEMENTS",
+      "technologies": [],
       "features": [],
       "featured": true
     },
     {
       "id": "proj_2",
-      "name": "AI College FAQ Chatbot (Node.js/MongoDB/Gemini API)Live: quiet-pony-a90d78.netlify.appAI chatbot for college queries with context-aware responses.",
-      "description": "AI College FAQ Chatbot (Node.js/MongoDB/Gemini API)Live: quiet-pony-a90d78.netlify.appAI chatbot for college queries with context-aware responses.",
-      "technologies": [
-        "Java"
-      ],
+      "name": "Microsoft Azure Fundamentals (AZ-900) – 957/1000",
+      "description": "Microsoft Azure Fundamentals (AZ-900) – 957/1000",
+      "technologies": [],
       "features": [],
       "featured": true
     },
     {
       "id": "proj_3",
-      "name": "Language Translator (Python/Tkinter/Google Translator API)Live: reliable-sundae-3b7a4f.netlify.appMultilingual translation application with simple user interface.",
-      "description": "Language Translator (Python/Tkinter/Google Translator API)Live: reliable-sundae-3b7a4f.netlify.appMultilingual translation application with simple user interface.",
-      "technologies": [
-        "Java"
-      ],
+      "name": "Cognizance Hackathon – IIT Roorkee (Selected)",
+      "description": "Cognizance Hackathon – IIT Roorkee (Selected)",
+      "technologies": [],
       "features": [],
       "featured": true
     },
     {
       "id": "proj_4",
-      "name": "CERTIFICATIONS & ACHIEVEMENTS",
-      "description": "CERTIFICATIONS & ACHIEVEMENTS",
-      "technologies": [
-        "Java"
-      ],
+      "name": "Infosys Springboard Virtual Internship 7.0 (Ongoing)",
+      "description": "Infosys Springboard Virtual Internship 7.0 (Ongoing)",
+      "technologies": [],
       "features": [],
       "featured": true
     },
     {
       "id": "proj_5",
-      "name": "Microsoft Azure Fundamentals (AZ-900) – 957/1000",
-      "description": "Microsoft Azure Fundamentals (AZ-900) – 957/1000",
-      "technologies": [
-        "Java"
-      ],
+      "name": "Business Analytics with Excel",
+      "description": "Business Analytics with Excel",
+      "technologies": [],
       "features": [],
       "featured": true
     },
     {
       "id": "proj_6",
-      "name": "Cognizance Hackathon – IIT Roorkee (Selected)",
-      "description": "Cognizance Hackathon – IIT Roorkee (Selected)",
-      "technologies": [
-        "Java"
-      ],
-      "features": [],
-      "featured": true
-    },
-    {
-      "id": "proj_7",
-      "name": "Infosys Springboard Virtual Internship 7.0 (Ongoing)",
-      "description": "Infosys Springboard Virtual Internship 7.0 (Ongoing)",
-      "technologies": [
-        "Java"
-      ],
-      "features": [],
-      "featured": true
-    },
-    {
-      "id": "proj_8",
-      "name": "Business Analytics with Excel",
-      "description": "Business Analytics with Excel",
-      "technologies": [
-        "Java"
-      ],
-      "features": [],
-      "featured": true
-    },
-    {
-      "id": "proj_9",
       "name": "Active LeetCode Problem Solver",
       "description": "Active LeetCode Problem Solver",
-      "technologies": [
-        "Java"
-      ],
+      "technologies": [],
       "features": [],
       "featured": true
     }
@@ -176,19 +115,19 @@
   "education": [
     {
       "id": "edu_1",
-      "institution": "GLA University",
-      "degree": "Bachelor of Technology (B.Tech)",
-      "field": "Computer Science & Engineering",
-      "startDate": "2025",
-      "endDate": "2029",
-      "gpa": "7.0 CGPA",
+      "institution": "GLA University, MathuraB.Tech – Artificial Intelligence & Machine Learning (2025–2029) | CGPA: 7.0/10",
+      "degree": "GLA University, MathuraB.Tech – Artificial Intelligence & Machine Learning (2025–2029) | CGPA: 7.0/10",
+      "field": "Engineering / Technology",
+      "startDate": "2022",
+      "endDate": "2026",
+      "gpa": "",
       "current": true
     }
   ],
   "certifications": [],
   "achievements": [],
   "customization": {
-    "theme": "top1-premier",
+    "theme": "animated-elastic-cards",
     "primaryColor": "#0c8ee9",
     "accentColor": "#8b5cf6",
     "fontFamily": "inter",
@@ -199,11 +138,11 @@
   "sectionVisibility": {
     "about": true,
     "skills": true,
-    "experience": true,
+    "experience": false,
     "projects": true,
     "education": true,
-    "certifications": true,
-    "achievements": true,
+    "certifications": false,
+    "achievements": false,
     "contact": true
   },
   "userId": "0e48f8f5-f8b4-4c36-b08d-24de570bbbd2"
